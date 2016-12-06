@@ -9,3 +9,4 @@ Maklumat Pelajar
 Nama:Jasmine
 Umur:21
 Alamat Tempat Tinggal:Sabak Bernam
+Tempat LI: JPNS
