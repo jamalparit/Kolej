@@ -1,4 +1,11 @@
+Maklumat Kolej
+
 Nama: Politeknik Sabak Bernam
 Alamat: Sabak Bernam
 Latabelakang : Di Sabak Bernam Jugak
 Bilangan Pelajar : 200 orang
+
+Maklumat Pelajar
+Nama:
+Umur:
+Alamat Tempat Tinggal:
