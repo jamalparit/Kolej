@@ -6,6 +6,6 @@ Latabelakang : Di Sabak Bernam Jugak
 Bilangan Pelajar : 200 orang
 
 Maklumat Pelajar
-Nama:
-Umur:
-Alamat Tempat Tinggal:
+Nama:Jasmine
+Umur:21
+Alamat Tempat Tinggal:Sabak Bernam
