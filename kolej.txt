@@ -10,3 +10,7 @@ Nama:Jasmine
 Umur:21
 Alamat Tempat Tinggal:Sabak Bernam
 Tempat LI: JPNS
+
+Maklumat Kursus
+Kursus: Sains Komputer
+Semester 3
